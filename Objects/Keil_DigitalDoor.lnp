@@ -1,0 +1,3 @@
+".\Objects\passwordlock.obj" 
+TO ".\Objects\Keil_DigitalDoor" 
+PRINT(".\Listings\Keil_DigitalDoor.m51")
